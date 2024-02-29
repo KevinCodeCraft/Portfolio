@@ -1,3 +1,3 @@
 # This is a test project!
 
-In make for learning purposes,
+In make for learning purposes.
